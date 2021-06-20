@@ -76,6 +76,7 @@ python3 -m bot
 - emptytrash - 🗑️ Empty your trash.
 - revoke - 🔓 Logout from the bot.
 - help - 🆘 Show help message.
+- restart - ♻️ Use this command to restart the  bot.
 
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
