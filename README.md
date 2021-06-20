@@ -67,13 +67,15 @@ python3 -m bot
 
 ### COMMANDS FOR THE BOT TO BE USED-
 
-- start - useless command
-- help - How to use me
-- auth - Authorizing GDrive Account
-- setfolder - Set Custom Upload Folder
-- copy - Copy GDrive Files
-- revoke - Revoke GDrive Account
-- del - Delete GDrive Files
+- start - 🚀 Check whether the bot is online or not.
+- auth - 🔐 Get auth url for login to your google drive.
+- setfolder - 🗂️ Set custom upload folder.
+- ytdl - 🎦 Upload ytdl supported links.
+- copy - 📂 Copy G-drive folder or file link.
+- delete - ⚔️ Delete file.
+- emptytrash - 🗑️ Empty your trash.
+- revoke - 🔓 Logout from the bot.
+- help - 🆘 Show help message.
 
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
